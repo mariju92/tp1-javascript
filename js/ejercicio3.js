@@ -3,4 +3,4 @@
 let numero1= 3;
 let numero2= 5;
 
-document.write(numero1 + numero2)
+document.write(numero1 + numero2);
